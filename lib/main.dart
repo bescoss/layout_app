@@ -49,19 +49,16 @@ class _MyHomePageState extends State<MyHomePage> {
                   color: Colors.red,
                   child: Text(
                     'One',
-                    textAlign: TextAlign.center,
                   )),
               Container(
                   color: Colors.blue,
                   child: Text(
                     'Two',
-                    textAlign: TextAlign.center,
                   )),
               Container(
                   color: Colors.green,
                   child: Text(
                     'Three',
-                    textAlign: TextAlign.center,
                   )),
               Text(
                 'PABLO BESCOS 23-24 SSARRIÀ',
